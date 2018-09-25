@@ -1,6 +1,0 @@
-.Main {
-  width:"100%";
-  hiehgt:"100vh";
-  display:grid;
-  grid-template-columns:"[start] 256px [mid] auto [end]";grid-template-rows:"[start] 64px [mid] auto";grid-template-areas:"sidebarHeader mainBodyHeader" "sidebar mainBody"
-}

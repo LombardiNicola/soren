@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.Main{width:"100%";hiehgt:"100vh";display:grid;grid-template-columns:"[start] 256px [mid] auto [end]";grid-template-rows:"[start] 64px [mid] auto";grid-template-areas:"sidebarHeader mainBodyHeader" "sidebar mainBody"}
+/*# sourceMappingURL=main.37b30b1b.css.map*/
